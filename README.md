@@ -1,7 +1,7 @@
 # Proyecto-Big-Data-Fuentelarreyna
 Análisis de Datos del COVID-19
 
-Acrónimo: EsuBDcovid
+Acrónimo: EduBDcovid
 
 Proyecto desarrollado por alumnos de 3º de la ESO del Colegio Fuentelarreyna 
 
