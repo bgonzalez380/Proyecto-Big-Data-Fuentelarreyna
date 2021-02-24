@@ -37,4 +37,6 @@ https://chrome.google.com/webstore/detail/table-capture/iebpjdmgckacbodjpijphcpl
 
 https://infogram.com/
 
+https://gerardomarote.com/plantilla-word-de-dos-columnas-para-documentos-profesionales/
+
 
