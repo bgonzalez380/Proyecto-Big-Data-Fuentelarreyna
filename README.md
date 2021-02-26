@@ -39,6 +39,8 @@ https://chrome.google.com/webstore/detail/table-capture/iebpjdmgckacbodjpijphcpl
 
 https://infogram.com/
 
+https://www.iloveimg.com/es/jpg-a-imagen/jpg-a-gif
+
 https://gerardomarote.com/plantilla-word-de-dos-columnas-para-documentos-profesionales/
 
 
