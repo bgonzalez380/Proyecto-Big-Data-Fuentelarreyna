@@ -27,6 +27,8 @@ https://github.com/datadista/datasets/tree/master/COVID%2019/old_series
 
 https://es.wikipedia.org/wiki/Pandemia_de_COVID-19
 
+https://es.wikipedia.org/wiki/Demograf%C3%ADa_de_Europa
+
 Herramientas:
 
 https://github.com/
