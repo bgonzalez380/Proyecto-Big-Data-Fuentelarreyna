@@ -25,6 +25,8 @@ https://github.com/datadista/datasets/blob/master/COVID%2019/readme.md
 
 https://github.com/datadista/datasets/tree/master/COVID%2019/old_series
 
+https://es.wikipedia.org/wiki/Pandemia_de_COVID-19
+
 Herramientas:
 
 https://github.com/
