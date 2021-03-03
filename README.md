@@ -47,4 +47,7 @@ https://www.iloveimg.com/es/jpg-a-imagen/jpg-a-gif
 
 https://gerardomarote.com/plantilla-word-de-dos-columnas-para-documentos-profesionales/
 
+Resultados:
+
+Nuestra Infografía con Infogram: https://infogram.com/infografia-1h0r6rp0z3jkw2e
 
