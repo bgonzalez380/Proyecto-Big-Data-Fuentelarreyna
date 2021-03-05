@@ -49,5 +49,5 @@ https://gerardomarote.com/plantilla-word-de-dos-columnas-para-documentos-profesi
 
 Resultados:
 
-Nuestra Infografía con Infogram: https://infogram.com/infografia-1h0r6rp0z3jkw2e
+Nuestra Infografía con Infogram: https://infogram.com/edubdcovid-1hnp27mk57epn2g?live
 
