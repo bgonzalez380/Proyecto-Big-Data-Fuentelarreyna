@@ -51,8 +51,6 @@ https://infogram.com/
 
 https://www.iloveimg.com/es/jpg-a-imagen/jpg-a-gif
 
-https://gerardomarote.com/plantilla-word-de-dos-columnas-para-documentos-profesionales/
-
 Resultados:
 
 Nuestra Infografía con Infogram: https://infogram.com/edubdcovid-1hnp27mk57epn2g?live
