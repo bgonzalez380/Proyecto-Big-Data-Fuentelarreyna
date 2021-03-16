@@ -31,10 +31,6 @@ https://es.wikipedia.org/wiki/Demograf%C3%ADa_de_Europa
 
 https://www.eldiario.es/sociedad/vacuna-covid-mapas-graficos-proceso-vacunacion-espana-mundo-marzo-4_1_6782953.html
 
-https://www.economiadigital.es/politica/el-impacto-real-del-coronavirus-en-espana-600-000-infectados_20048097_102.html
-
-https://www.elespanol.com/mundo/20200504/alemania-podria-tener-infectados-coronavirus-cifras-oficiales/487452034_0.html
-
 Herramientas:
 
 https://github.com/
